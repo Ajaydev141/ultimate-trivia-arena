@@ -1,0 +1,4 @@
+textual>=8.0.0
+rich>=15.0.0
+pydantic>=2.14.0
+typer>=0.29.0
